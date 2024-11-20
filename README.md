@@ -1,2 +1,2 @@
-# PETRONAS industrial talk
-  This poster is created based on and PETRONAS Digital YGP industrial talk
+# Technology and Information System (TIS)
+  This Repository will contain all the assignments for TIS course
