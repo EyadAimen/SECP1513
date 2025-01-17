@@ -2,22 +2,6 @@
   This Repository will contain all the assignments for TIS course
 
 
-### 💻 Programming Languages  
-- 🟨 JavaScript (React, Node.js)  
-- 🐍 Python  
-- 🟦 TypeScript  
-
-### 🔧 Tools & Technologies  
-- 🌲 Git & GitHub  
-- 🔥 Firebase  
-- 🐳 Docker  
-- 🐧 Linux  
-
-### 🧠 Soft Skills  
-- 🧩 Problem-Solving  
-- 🤝 Collaboration & Communication  
-- 🌟 Adaptability  
-
 ---
 
 ## 💡 Reflections  
@@ -51,17 +35,17 @@ This section includes insights gained, challenges faced, and lessons learned dur
 - I realized the importance of conducting effective **brainstorming sessions**, as they lead to generating a **diverse set of ideas** for consideration and implementation.  
 - I developed skills in using **Figma**, enabling me to design **intuitive and visually appealing interfaces** for applications.  
 
-**informative**.
+---
 
 - **⚠️ Challenges**:  
     - One of the main difficulties I faced was adapting to **new tools** that were unfamiliar to me.  
     - **Video editing** proved to be the most challenging aspect, as it was my first experience editing videos. I had to explore creative ideas to make the video visually **attractive** and engaging.  
-
+---
 - **🔮 Future Improvements**:  
     - I plan to actively work on enhancing my **video editing skills** by learning advanced techniques and exploring professional tools.  
     - Additionally, I aim to improve my **soft skills**, such as effective communication and teamwork, to better manage collaborative projects in the future.
 
-
+---
 ## 📞 Contact  
 
 If you would like to reach me, feel free to connect through any of the following:  
